@@ -22,7 +22,7 @@ Convert exploited farmers to independent entrepreneurs using digital solution in
 
 ## Solution 💡
 
-![Krishi-Biz](https://user-images.githubusercontent.com/69381806/130332520-3aba4462-1ae9-4630-b6d4-25edde8c1455.png)
+![Krishi-Biz](https://user-images.githubusercontent.com/69381806/130332580-0aaa9e5b-fba2-49fc-b0df-6c8749d7189c.png)
 
       We have created website as part of solution in initial phases. Using this website farmer can sell his product directly to retailers/companies by deals/MOU's. There will be option for search from customer side so that they can find appropriate farmer based on location and product they harvest. Farmer will have freedom of putting his own prices so that he get MSP(Minimum support price) very easily. Using this plateform farmer can grow his bussiness to any extent he wish.
 
