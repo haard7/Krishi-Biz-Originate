@@ -1,34 +1,29 @@
-# //🚀ENTER YOUR PROJECT TITLE HERE🚀//
-
-```bash
-THIS BLOCK IS MEANT TO EXPLAIN THE FILE STRUCTURE ONLY REMOVE ME INITAL COMMIT!
-\
-├───docs : (optional) Here you can put your documentation.
-├───src  : Put your source code here.
-└───test : (optional) Your testing scripts goes here.
-```
-
-Some introduction to your solution/project.
+#  🌾 KRISHI-BIZ 👨‍🌾
 
 Team Members:
 
-- [Member#1's Github](https://github.com/{team_member_username})
-- [Member#2's Github](https://github.com/{team_member_username})
+- [Haard Patel](https://github.com/haard7)
+- [Dhruv Patel](https://github.com/dhruvLearner8)
 
 ## Problem statement 🐾
 
-Give a short problem statement that describes the problem you want to solve.
+Convert exploited farmers to independent entrepreneurs using digital solution in terms of employment and production. 
 
 ## Tech Stack 📚
 
-Provide a list of tools and technologies used to build your project.
+### Front End
+- HTML
+- CSS (Bootstrap)
+- JS
+### Back end
+- Django
+- PostgreSQL
+- API's (GeoLogical api, agro api, department of agri. api etc..) 
 
 ## Solution 💡
 
-Provide the walkthrough of your solution.
+We have created website as part of solution in initial phases. Using this website farmer can sell his product directly to retailers/companies by deals/MOU's. There will be option for search from customer side so that they can find appropriate farmer based on location and product they harvest. Farmer will have freedom of putting his own prices so that he get MSP(Minimum support price) very easily. Using this plateform farmer can grow his bussiness to any extent he wish.
 
-- Provide necessary details to understand the solution.
-- Optional but charts are always nice to have.
 
 ## Proof of work(Screenshots) 🎥
 
@@ -37,9 +32,6 @@ Provide images or proof of work here. By proof of work we mean  you can provide:
 - a link to a hosted website that shows the result of your solution.
 - a link to screen recording of your solution.
 
-## Other optional sections you want to write about 📝
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut bibendum lectus vel urna auctor elementum. Mauris maximus feugiat odio sit amet eleifend. Suspendisse a justo purus.
 
 ## File structure 📂
 
@@ -65,12 +57,22 @@ Provide steps to install or use your project.
 
 ## Expected Outcomes 💯
 
-Compare your current outcomes with what you expected it do.
+We expected to have strong plateform between Farmers and customers (Consumers/ retailers/ companies) so that farmer can get his expected price. we could not create potential planning for cosumer to farmer enterprise directly howerver we are able to have good frameworks for deals/MOU with companies and retailer directly under our working model. 
 
 ## Future work 🤔
 
-Things to improve upon in future & how you would scale it up.
+### - Making more user friendly and regional language friendly
+we want to make this digital plateform easily usable and accessible for farmers by looking at thier digital literacy
+### - involve shares of retailer in farming
+most of the time farmers can not borrow more money to spend for production. but this issue can be resolved by involving potential retailers to invest in that crop as shares and later on return can be leveraged for both farmer and retailer
+### - make group of farmers and have strong industry level supply
+This is really important when farmers from same location selling same products. then they can have larger MOU with single company. 
+### - avail government/ Cooperative benificiary on plateform
+As a part of information gateway we can provide all updated details regarding government/ Cooperative benificiaries for farmers to their feed
+### - Farming analysis for better product
+We will do the alalysis of crops and production trends of past time for better solutions to farmers. 
 
 ## Reference 📖
 
-List of references used in your solution.
+- https://www.indiatvnews.com/news/india/farm-laws-explained-time-to-end-misconceptions-and-break-impasse-682985
+- https://hackmitwpu.thescriptgroup.in/SIH_Statements_All.pdf
