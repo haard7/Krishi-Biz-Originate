@@ -10,7 +10,7 @@ YOU ALSO NEED TO DOWNLOAD POSTGRESQL AND THERE CREATE A DATABASE NAMED 'hackatho
 
 How to use Our Webapp -:
 *you must have downloaded python in your system*
-
+```bash
 1)open a folder on your desktop and give any name you want
 2)open that folder in vs code.
 3)open terminal in vs code and type "pip install django"
@@ -22,3 +22,4 @@ How to use Our Webapp -:
 9)Now run "python manage.py makemigrations" in terminal
 10) run "python manage.py migrate" in terminal
 11) Then run "python manage.py runserver" in terminal to run server and go to chrome and type 127...and your app will run
+```
