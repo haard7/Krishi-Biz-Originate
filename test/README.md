@@ -1,8 +1,4 @@
-# Tests(OPTIONAL but ho to accha!)
-
-***OPTIONAL***
-
-provide scripts or steps to test in this directory, same like in the main README's usage section.
+# Tests
 
 
 *IF YOU ARE DOWNLOADING OUR GITHUB FOLDER THEN JUST RUN ALL PIP COMMANDS AND RUN ALL PYTHON MANAGE.PY... COMMANDS AND MAKE SURE YOU HAVE PYTHON INSTALLED IN YOUR SYSTEM
