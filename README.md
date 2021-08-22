@@ -29,6 +29,22 @@ We have created website as part of solution in initial phases. Using this websit
 
 ## Proof of work(Screenshots) 🎥
 
+#### Main page
+
+![Screenshot 2021-08-22 061439](https://user-images.githubusercontent.com/69381806/130338788-fbc4db76-24e6-4ee9-b4ad-5c284b7c4ecb.png)
+
+#### seach farmer
+
+![Screenshot 2021-08-22 062357](https://user-images.githubusercontent.com/69381806/130338789-22125699-cbc6-42ad-9a45-cc985ed3d654.png)
+
+#### show searched result
+
+![Screenshot 2021-08-22 063705](https://user-images.githubusercontent.com/69381806/130338791-02c8f71d-4693-48e1-a675-03c072a4ce05.png)
+
+#### Farmer's section 
+
+![Screenshot 2021-08-22 063755](https://user-images.githubusercontent.com/69381806/130338796-25c80a2d-561b-405c-8d49-cb3b4e02a49b.png)
+
 Provide images or proof of work here. By proof of work we mean  you can provide:
 
 - a link to a hosted website that shows the result of your solution.
