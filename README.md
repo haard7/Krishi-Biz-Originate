@@ -53,6 +53,7 @@ Provide images or proof of work here. By proof of work we mean  you can provide:
 
 ## File structure 📂
 
+```bash
 C:\USERS\A\DESKTOP\HACKATHON\MYSITE
 │ manage.py
 │ Procfile
@@ -525,6 +526,7 @@ register.html
 retailer.html
 view1.html
 
+```
 ## Installation & Usage 📦
 
 
