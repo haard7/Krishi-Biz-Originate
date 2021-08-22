@@ -4,6 +4,10 @@
 
 provide scripts or steps to test in this directory, same like in the main README's usage section.
 
+
+*IF YOU ARE DOWNLOADING OUR GITHUB FOLDER THEN JUST RUN ALL PIP COMMANDS AND RUN ALL PYTHON MANAGE.PY... COMMANDS AND MAKE SURE YOU HAVE PYTHON INSTALLED IN YOUR SYSTEM
+YOU ALSO NEED TO DOWNLOAD POSTGRESQL AND THERE CREATE A DATABASE NAMED 'hackathon' AND PASSWORD '1234' *
+
 How to use Our Webapp -:
 *you must have downloaded python in your system*
 
