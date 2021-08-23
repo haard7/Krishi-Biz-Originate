@@ -1,5 +1,2 @@
 # Documentation
-
-***OPTIONAL***
-
-Your doc files should be in the `docs` directory.
+Here I have uploaded PPT of my project in pdf. It will take you through whole idea and pathway for implementation. 
