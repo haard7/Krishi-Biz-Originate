@@ -1,5 +1,5 @@
 #  🌾 KRISHI-BIZ 👨‍🌾
-
+#### All Rights reserved for this project
 Team Members:
 
 - [Haard Patel](https://github.com/haard7)
